@@ -1,0 +1,4 @@
+name: MessageSocialSpy
+depend: [LilyPad-Connect]
+version: 1.0
+main: me.shawshark.messagesocialspy.main
